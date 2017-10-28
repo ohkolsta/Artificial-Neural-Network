@@ -1,0 +1,19 @@
+[100,10,15,10]
+'relu'
+None
+'softmax_cross_entropy_with_logits'
+0.75
+[-0.1,0.1]
+['dense_autoencoder', [10,10,(0,1)]]
+1
+0.1
+0.1
+50
+10
+500
+[]
+[]
+[]
+[]
+True
+1

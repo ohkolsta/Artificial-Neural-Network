@@ -1,0 +1,19 @@
+[9,100,72,8]
+'relu'
+None
+'softmax_cross_entropy_with_logits'
+0.5
+[-.1,.1]
+['glass.txt', [0]]
+1
+0.1
+0.1
+100
+10
+5000
+[1]
+[1]
+[2]
+[2]
+True
+1

@@ -1,0 +1,19 @@
+[8,6,2]
+'relu'
+None
+'softmax_cross_entropy_with_logits'
+0.1
+[-0.1,0.1]
+['pima-indians-diabetes.txt', [0]]
+1
+0.1
+0.1
+100
+5
+300
+[0,1]
+[0,1]
+[0,1]
+[0,1]
+True
+1

@@ -1,0 +1,19 @@
+[25,150,9]
+'relu'
+None
+'softmax_cross_entropy_with_logits'
+0.75
+[-.01,.01]
+['segmented_vector', [25,1000,0,8]]
+1
+0.1
+0.1
+100
+10
+500
+[1]
+[1]
+[1]
+[1]
+True
+1

@@ -1,0 +1,19 @@
+[9,4,9]
+'relu'
+None
+'softmax_cross_entropy_with_logits'
+0.5
+[-0.1,0.1]
+['winequality_red.txt', [0]]
+1
+0.1
+0.1
+100
+10
+1000
+[]
+[]
+[]
+[]
+True
+1

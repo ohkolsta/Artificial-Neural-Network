@@ -1,0 +1,19 @@
+[9,100,11]
+'relu'
+None
+'softmax_cross_entropy_with_logits'
+0.8
+[-.05,.05]
+['yeast.txt', [0]]
+1
+0.1
+0.1
+100
+10
+1500
+[1]
+[1]
+[1]
+[1]
+True
+1

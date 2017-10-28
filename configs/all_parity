@@ -1,0 +1,19 @@
+[10,20,40,2]
+'relu'
+None
+'softmax_cross_entropy_with_logits'
+0.2
+[-.1,.1]
+['all_parity', [10]]
+1
+0.1
+0.1
+100
+10
+1000
+[1]
+[1]
+[1]
+[0]
+True
+1
